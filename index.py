@@ -6,3 +6,6 @@ def another_function():
 
 def another_foobar():
     pass
+
+def yet_again():
+    pass
