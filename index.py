@@ -9,3 +9,6 @@ def another_foobar():
 
 def yet_again():
     pass
+
+def something_about_logging():
+    pass
