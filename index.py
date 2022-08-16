@@ -12,3 +12,6 @@ def yet_again():
 
 def something_about_logging():
     pass
+
+def something_here():
+    pass
